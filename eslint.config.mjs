@@ -34,6 +34,7 @@ export default [
 
         Map: true,
         Set: true,
+        Promise: true,
       },
 
       parser: babelParser,
